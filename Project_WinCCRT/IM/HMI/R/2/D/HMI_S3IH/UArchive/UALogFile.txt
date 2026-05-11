@@ -1,0 +1,148 @@
+2026-03-30 19:54:48.974 [p=8752, t=0x1c28] General: Project opened, dsncs="CC_HMI_S3IH_26_03_30_19_53_05" path="\\KAVINDA_PC\WinCC_Project_HMI_S3IH\HMI_S3IH.mcp"
+2026-03-30 19:54:49.079 [p=8752, t=0x1c28] Sync: No redundant partner configured
+2026-03-30 19:54:49.148 [p=8752, t=0x1c28] Sync: Loading redundancy configuration
+2026-03-30 19:54:49.246 [p=8752, t=0x1c28] Sync: Redundancy is not activated
+2026-03-30 19:54:49.314 [p=8752, t=0x1c28] General: Disconnecting configuration.
+2026-03-30 19:54:49.362 [p=8752, t=0x1c28] General: Connecting configuration.
+2026-03-30 19:54:49.619 [p=8752, t=0x1c28] General: Connecting to runtime database "CC_HMI_S3IH_26_03_30_19_53_05R" on instance "KAVINDA_PC\WINCC"
+2026-03-30 19:54:49.713 [p=8752, t=0x1c28] General: Checking and upgrading archive table schemas
+2026-03-30 19:54:49.740 [p=8752, t=0x1c28] General: Archive table schemas are up to date now
+2026-03-30 19:54:49.928 [p=8752, t=0x1c28] CUAServer::ConnectLicenseServices
+2026-03-30 19:54:49.956 [p=8752, t=0x1c28] CUAServer::DisconnectLicenseServices
+2026-03-30 19:54:49.983 [p=8752, t=0x1c28] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2026-03-30 19:54:50.006 [p=8752, t=0x1c28] CreateInstance of CLicenseTimerThread succeeded.
+2026-03-30 19:54:50.170 [p=8752, t=0x1c28] General: Project activate
+2026-03-30 19:54:50.199 [p=8752, t=0x1c28] General: Start deactivating the project...
+2026-03-30 19:54:50.224 [p=8752, t=0x1c28] Sync: Loading redundancy configuration
+2026-03-30 19:54:50.254 [p=8752, t=0x1c28] Sync: Redundancy is not activated
+2026-03-30 19:54:55.042 [p=8752, t=0x4c48] CUAServer::OnLicenseCheck (first call).
+2026-03-30 19:54:55.103 [p=8752, t=0x4c48] OnLicenseCheck: number of archives = 0.
+2026-03-30 19:54:57.745 [p=8752, t=0x152c] General: ProjectEvent: 3
+2026-03-30 19:56:58.185 [p=8752, t=0x374c] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2026-03-30 19:56:58.309 [p=8752, t=0x152c] General: ProjectEvent: 4
+2026-03-30 19:56:58.361 [p=8752, t=0x152c] General: Start deactivating the project...
+2026-03-30 19:56:58.399 [p=8752, t=0x152c] General: Project deactivated
+2026-03-30 19:57:20.600 [p=8752, t=0x152c] General: ProjectEvent: 2
+2026-03-30 19:57:20.633 [p=8752, t=0x152c] General: Start closing the project...
+2026-03-30 19:57:20.679 [p=8752, t=0x152c] General: Start deactivating the project...
+2026-03-30 19:57:20.704 [p=8752, t=0x152c] CUAServer::DisconnectLicenseServices
+2026-03-30 19:57:20.974 [p=8752, t=0x152c] General: Disconnecting configuration.
+2026-03-30 20:09:30.633 [p=8716, t=0x35f8] General: Project opened, dsncs="CC_HMI_S3IH_26_03_30_19_53_05" path="\\KAVINDA_PC\WinCC_Project_HMI_S3IH\HMI_S3IH.mcp"
+2026-03-30 20:09:30.688 [p=8716, t=0x35f8] Sync: No redundant partner configured
+2026-03-30 20:09:30.716 [p=8716, t=0x35f8] Sync: Loading redundancy configuration
+2026-03-30 20:09:30.807 [p=8716, t=0x35f8] Sync: Redundancy is not activated
+2026-03-30 20:09:30.884 [p=8716, t=0x35f8] General: Disconnecting configuration.
+2026-03-30 20:09:30.924 [p=8716, t=0x35f8] General: Connecting configuration.
+2026-03-30 20:09:31.661 [p=8716, t=0x35f8] General: Connecting to runtime database "CC_HMI_S3IH_26_03_30_19_53_05R" on instance "KAVINDA_PC\WINCC"
+2026-03-30 20:09:31.717 [p=8716, t=0x35f8] General: Checking and upgrading archive table schemas
+2026-03-30 20:09:31.743 [p=8716, t=0x35f8] General: Archive table schemas are up to date now
+2026-03-30 20:09:32.020 [p=8716, t=0x35f8] CUAServer::ConnectLicenseServices
+2026-03-30 20:09:32.048 [p=8716, t=0x35f8] CUAServer::DisconnectLicenseServices
+2026-03-30 20:09:32.076 [p=8716, t=0x35f8] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2026-03-30 20:09:32.097 [p=8716, t=0x35f8] CreateInstance of CLicenseTimerThread succeeded.
+2026-03-30 20:09:32.261 [p=8716, t=0x35f8] General: Project activate
+2026-03-30 20:09:32.291 [p=8716, t=0x35f8] General: Start deactivating the project...
+2026-03-30 20:09:32.316 [p=8716, t=0x35f8] Sync: Loading redundancy configuration
+2026-03-30 20:09:32.399 [p=8716, t=0x35f8] Sync: Redundancy is not activated
+2026-03-30 20:09:37.129 [p=8716, t=0x0e48] CUAServer::OnLicenseCheck (first call).
+2026-03-30 20:09:37.146 [p=8716, t=0x0e48] OnLicenseCheck: number of archives = 0.
+2026-03-30 20:09:39.234 [p=8716, t=0x2fcc] General: ProjectEvent: 3
+2026-03-30 20:10:45.642 [p=8716, t=0x2fcc] General: ProjectEvent: 4
+2026-03-30 20:10:45.679 [p=8716, t=0x2fcc] General: Start deactivating the project...
+2026-03-30 20:10:45.703 [p=8716, t=0x20ec] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2026-03-30 20:10:45.729 [p=8716, t=0x2fcc] General: Project deactivated
+2026-03-30 20:12:52.280 [p=8716, t=0x2fcc] General: ProjectEvent: 2
+2026-03-30 20:12:52.316 [p=8716, t=0x2fcc] General: Start closing the project...
+2026-03-30 20:12:52.373 [p=8716, t=0x2fcc] General: Start deactivating the project...
+2026-03-30 20:12:52.397 [p=8716, t=0x2fcc] CUAServer::DisconnectLicenseServices
+2026-03-30 20:12:52.665 [p=8716, t=0x2fcc] General: Disconnecting configuration.
+2026-03-30 20:36:15.600 [p=13640, t=0x4e74] General: Project opened, dsncs="CC_HMI_S3IH_26_03_30_19_53_05" path="\\KAVINDA_PC\WinCC_Project_HMI_S3IH\HMI_S3IH.mcp"
+2026-03-30 20:36:15.652 [p=13640, t=0x4e74] Sync: No redundant partner configured
+2026-03-30 20:36:15.700 [p=13640, t=0x4e74] Sync: Loading redundancy configuration
+2026-03-30 20:36:15.759 [p=13640, t=0x4e74] Sync: Redundancy is not activated
+2026-03-30 20:36:15.836 [p=13640, t=0x4e74] General: Disconnecting configuration.
+2026-03-30 20:36:15.886 [p=13640, t=0x4e74] General: Connecting configuration.
+2026-03-30 20:36:16.754 [p=13640, t=0x4e74] General: Connecting to runtime database "CC_HMI_S3IH_26_03_30_19_53_05R" on instance "KAVINDA_PC\WINCC"
+2026-03-30 20:36:16.790 [p=13640, t=0x4e74] General: Checking and upgrading archive table schemas
+2026-03-30 20:36:16.817 [p=13640, t=0x4e74] General: Archive table schemas are up to date now
+2026-03-30 20:36:17.158 [p=13640, t=0x4e74] CUAServer::ConnectLicenseServices
+2026-03-30 20:36:17.237 [p=13640, t=0x4e74] CUAServer::DisconnectLicenseServices
+2026-03-30 20:36:17.264 [p=13640, t=0x4e74] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2026-03-30 20:36:17.297 [p=13640, t=0x4e74] CreateInstance of CLicenseTimerThread succeeded.
+2026-03-30 20:36:17.568 [p=13640, t=0x4e74] General: Project activate
+2026-03-30 20:36:17.601 [p=13640, t=0x4e74] General: Start deactivating the project...
+2026-03-30 20:36:17.627 [p=13640, t=0x4e74] Sync: Loading redundancy configuration
+2026-03-30 20:36:17.724 [p=13640, t=0x4e74] Sync: Redundancy is not activated
+2026-03-30 20:36:22.336 [p=13640, t=0x4d88] CUAServer::OnLicenseCheck (first call).
+2026-03-30 20:36:22.397 [p=13640, t=0x4d88] OnLicenseCheck: number of archives = 0.
+2026-03-30 20:36:26.122 [p=13640, t=0x3a80] General: ProjectEvent: 3
+2026-03-30 20:40:11.596 [p=13640, t=0x5590] Sync: Redundancy configuration file changed
+2026-03-30 20:40:11.757 [p=13640, t=0x5590] Sync: Loading redundancy configuration
+2026-03-30 20:40:11.805 [p=13640, t=0x5590] Sync: Redundancy is not activated
+2026-03-30 20:40:12.491 [p=13640, t=0x440c] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2026-03-30 20:40:12.555 [p=13640, t=0x3a80] General: ProjectEvent: 4
+2026-03-30 20:40:12.600 [p=13640, t=0x3a80] General: Start deactivating the project...
+2026-03-30 20:40:12.718 [p=13640, t=0x3a80] General: Project deactivated
+2026-03-30 20:40:34.665 [p=13640, t=0x3a80] General: ProjectEvent: 2
+2026-03-30 20:40:34.713 [p=13640, t=0x3a80] General: Start closing the project...
+2026-03-30 20:40:34.772 [p=13640, t=0x3a80] General: Start deactivating the project...
+2026-03-30 20:40:34.807 [p=13640, t=0x3a80] CUAServer::DisconnectLicenseServices
+2026-03-30 20:40:35.081 [p=13640, t=0x3a80] General: Disconnecting configuration.
+2026-03-31 09:27:17.819 [p=12868, t=0x307c] General: Project opened, dsncs="CC_HMI_S3IH_26_03_30_19_53_05" path="\\KAVINDA_PC\WinCC_Project_HMI_S3IH\HMI_S3IH.mcp"
+2026-03-31 09:27:17.956 [p=12868, t=0x307c] Sync: No redundant partner configured
+2026-03-31 09:27:18.002 [p=12868, t=0x307c] Sync: Loading redundancy configuration
+2026-03-31 09:27:18.109 [p=12868, t=0x307c] Sync: Redundancy is not activated
+2026-03-31 09:27:18.391 [p=12868, t=0x307c] General: Disconnecting configuration.
+2026-03-31 09:27:18.420 [p=12868, t=0x307c] General: Connecting configuration.
+2026-03-31 09:27:19.332 [p=12868, t=0x307c] General: Connecting to runtime database "CC_HMI_S3IH_26_03_30_19_53_05R" on instance "KAVINDA_PC\WINCC"
+2026-03-31 09:27:19.383 [p=12868, t=0x307c] General: Checking and upgrading archive table schemas
+2026-03-31 09:27:19.427 [p=12868, t=0x307c] General: Archive table schemas are up to date now
+2026-03-31 09:27:19.662 [p=12868, t=0x307c] CUAServer::ConnectLicenseServices
+2026-03-31 09:27:19.721 [p=12868, t=0x307c] CUAServer::DisconnectLicenseServices
+2026-03-31 09:27:19.772 [p=12868, t=0x307c] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2026-03-31 09:27:19.826 [p=12868, t=0x307c] CreateInstance of CLicenseTimerThread succeeded.
+2026-03-31 09:27:20.002 [p=12868, t=0x307c] General: Project activate
+2026-03-31 09:27:20.041 [p=12868, t=0x307c] General: Start deactivating the project...
+2026-03-31 09:27:20.099 [p=12868, t=0x307c] Sync: Loading redundancy configuration
+2026-03-31 09:27:20.163 [p=12868, t=0x307c] Sync: Redundancy is not activated
+2026-03-31 09:27:24.880 [p=12868, t=0x12f4] CUAServer::OnLicenseCheck (first call).
+2026-03-31 09:27:25.021 [p=12868, t=0x12f4] OnLicenseCheck: number of archives = 0.
+2026-03-31 09:27:36.595 [p=12868, t=0x0c6c] General: ProjectEvent: 3
+2026-03-31 09:47:20.559 [p=12868, t=0x0c6c] General: ProjectEvent: 4
+2026-03-31 09:47:20.643 [p=12868, t=0x0c6c] General: Start deactivating the project...
+2026-03-31 09:47:20.690 [p=12868, t=0x4e38] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2026-03-31 09:47:20.737 [p=12868, t=0x0c6c] General: Project deactivated
+2026-03-31 09:47:42.999 [p=12868, t=0x0c6c] General: ProjectEvent: 2
+2026-03-31 09:47:43.072 [p=12868, t=0x0c6c] General: Start closing the project...
+2026-03-31 09:47:43.175 [p=12868, t=0x0c6c] General: Start deactivating the project...
+2026-03-31 09:47:43.222 [p=12868, t=0x0c6c] CUAServer::DisconnectLicenseServices
+2026-03-31 09:47:43.497 [p=12868, t=0x0c6c] General: Disconnecting configuration.
+2026-03-31 09:56:40.195 [p=16848, t=0x29cc] General: Project opened, dsncs="CC_HMI_S3IH_26_03_30_19_53_05" path="\\KAVINDA_PC\WinCC_Project_HMI_S3IH\HMI_S3IH.mcp"
+2026-03-31 09:56:40.240 [p=16848, t=0x29cc] Sync: No redundant partner configured
+2026-03-31 09:56:40.271 [p=16848, t=0x29cc] Sync: Loading redundancy configuration
+2026-03-31 09:56:40.429 [p=16848, t=0x29cc] Sync: Redundancy is not activated
+2026-03-31 09:56:40.482 [p=16848, t=0x29cc] General: Disconnecting configuration.
+2026-03-31 09:56:40.523 [p=16848, t=0x29cc] General: Connecting configuration.
+2026-03-31 09:56:41.826 [p=16848, t=0x29cc] General: Connecting to runtime database "CC_HMI_S3IH_26_03_30_19_53_05R" on instance "KAVINDA_PC\WINCC"
+2026-03-31 09:56:41.865 [p=16848, t=0x29cc] General: Checking and upgrading archive table schemas
+2026-03-31 09:56:41.902 [p=16848, t=0x29cc] General: Archive table schemas are up to date now
+2026-03-31 09:56:42.573 [p=16848, t=0x29cc] CUAServer::ConnectLicenseServices
+2026-03-31 09:56:42.596 [p=16848, t=0x29cc] CUAServer::DisconnectLicenseServices
+2026-03-31 09:56:42.622 [p=16848, t=0x29cc] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2026-03-31 09:56:42.656 [p=16848, t=0x29cc] CreateInstance of CLicenseTimerThread succeeded.
+2026-03-31 09:56:43.069 [p=16848, t=0x29cc] General: Project activate
+2026-03-31 09:56:43.094 [p=16848, t=0x29cc] General: Start deactivating the project...
+2026-03-31 09:56:43.118 [p=16848, t=0x29cc] Sync: Loading redundancy configuration
+2026-03-31 09:56:43.237 [p=16848, t=0x29cc] Sync: Redundancy is not activated
+2026-03-31 09:56:47.690 [p=16848, t=0x4bbc] CUAServer::OnLicenseCheck (first call).
+2026-03-31 09:56:47.713 [p=16848, t=0x4bbc] OnLicenseCheck: number of archives = 0.
+2026-03-31 09:56:50.645 [p=16848, t=0x1780] General: ProjectEvent: 3
+2026-03-31 10:29:38.248 [p=16848, t=0x0cb4] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2026-03-31 10:29:41.946 [p=16848, t=0x1780] General: ProjectEvent: 4
+2026-03-31 10:29:42.693 [p=16848, t=0x1780] General: Start deactivating the project...
+2026-03-31 10:29:48.366 [p=16848, t=0x1780] General: Project deactivated
+2026-03-31 10:32:27.681 [p=16848, t=0x1780] General: ProjectEvent: 2
+2026-03-31 10:32:27.736 [p=16848, t=0x1780] General: Start closing the project...
+2026-03-31 10:32:27.760 [p=16848, t=0x1780] General: Start deactivating the project...
+2026-03-31 10:32:27.885 [p=16848, t=0x1780] CUAServer::DisconnectLicenseServices
+2026-03-31 10:32:28.797 [p=16848, t=0x1780] General: Disconnecting configuration.

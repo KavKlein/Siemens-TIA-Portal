@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MCX>
+	<ProjectLocation>
+		D:\Github_Repository\Siemens-TIA-Portal\Project_WinCCRT\IM\HMI\R\2\D\HMI_S3IH
+	</ProjectLocation>
+	<ProjectIsConsistent>
+		1
+	</ProjectIsConsistent>
+	<SharedMcxLocation>
+		
+	</SharedMcxLocation>
+	<ProjectLocationUNC>
+		\\KAVINDA_PC\WinCC_Project_HMI_S3IH
+	</ProjectLocationUNC>
+	<RDP>
+	<LastModifiedDate>
+		2026-03-31 13:30:22
+	</LastModifiedDate>
+	</RDP>
+</MCX>
